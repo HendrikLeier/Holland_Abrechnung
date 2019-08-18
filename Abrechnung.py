@@ -101,7 +101,6 @@ for di in range(len(debtors)):
             creditors[ci] = (c[0], c[1] + d[1])
             break
 
-
 for t in transactions:
     print(t)
 
